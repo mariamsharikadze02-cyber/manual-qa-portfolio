@@ -2,7 +2,7 @@
 ---
 
 
-**ID: TC_001**
+## **ID: TC_001**
 
 **Title:**  Verify login with valid credentials
 
@@ -83,6 +83,32 @@ User account must be locked
 
 **Expected Result:**
 User should not be able to login and should see account locked message
+
+
+
+
+## ID: TC_007
+
+**Title:**
+Verify login using credentials in a different language
+
+**Priority:**
+Medium
+
+**Preconditions:**
+User must be on the login page and this user should not exist. 
+Registered users are only in the English language. 
+
+**Steps:**
+1. Enter a username using non-Latin characters (e.g., Georgian: `მარიამი`).
+2. Enter a password using non-Latin characters (e.g., `პაროლი123`).
+3. Click the **Login** button.
+
+**Expected Result:**
+The system should handle the input correctly. If non-Latin characters are not supported, an appropriate validation or error message should be displayed, and the user should not be logged in.
+
+
+
 
 
 
