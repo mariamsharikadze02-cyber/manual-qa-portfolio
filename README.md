@@ -17,6 +17,22 @@ In my daily work, I am actively involved in testing software from start to finis
 
 I perform testing every day both at work and in personal practice, where I continue improving my QA skills by testing different websites and applications.
 
-My testing approach covers functional testing, regression testing, exploratory testing, and verifying system behavior across different environments.
+My testing approach covers functional testing, regression testing, exploratory testing, and verifying system behaviour across different environments.
 
 I am highly detail-oriented and focused on ensuring quality across all areas of the product, including business logic, payments, reporting, and game mechanics.
+
+
+## Contact Information 📬
+
+- 📧 Email: mariamSharikadze02@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/mariam-sharikadze-528812272 
+- 🐙 GitHub: https://github.com/MariamSh-qa 
+- 📱 Phone: +995 591 20 26 56
+
+## Location 🌍
+- City: Tbilisi, Georgia
+
+## Open to Opportunities 🚀
+I am open to Junior Manual QA Engineer opportunities in web and mobile application testing.
+
+
