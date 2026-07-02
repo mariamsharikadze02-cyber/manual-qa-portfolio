@@ -81,3 +81,16 @@ Testing Utilities: Chrome DevTools
 
 Manual Testing, Web Application Testing 🌐, Mobile Application Testing 📱, Functional Testing, Regression Testing, Smoke & Sanity Testing, Exploratory Testing 🔍, UI/UX Testing, API Testing 🧪, Test Case Design, Bug Reporting 🐞, Requirements Analysis, Cross-browser Testing, Back-office Testing ⚙️, Payment/Invoice Testing 💳, Game Testing 🎮, Static Testing, Dynamic Testing, Test Techniques (Black-box Testing, Equivalence Partitioning, Boundary Value Analysis), Test Types, Test Levels (Unit, Integration, System, Acceptance), Test Plans, Test Documentation, CI/CD concepts, Azure DevOps for test case management, SDLC, STLC, Agile & Scrum basics, ISTQB Foundation Level principles.
 
+
+---
+
+## Repository Structure 📁
+
+- 📁 Test Cases – Manual test cases for web and mobile applications
+- 📁 Bug Reports – Documented bugs with steps to reproduce and expected results
+- 📁 Test Plans – Test strategy and planning documents
+- 📁 API Testing – Postman collections and API test scenarios
+- 📁 SQL – Database queries for testing
+- 📁 Exploratory Testing – Testing notes and findings
+- 📁 UI BUGS – Evidence of bugs and test execution
+
