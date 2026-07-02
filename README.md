@@ -60,7 +60,6 @@ I am highly detail-oriented and focused on ensuring quality across all areas of 
 - Georgian 🇬🇪 — Native
 - English 🇬🇧 — Advanced
 
-  ## Skills & Tools 🧠🛠️
 
 ## Skills & Tools 🧠🛠️
 
