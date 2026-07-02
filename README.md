@@ -35,4 +35,27 @@ I am highly detail-oriented and focused on ensuring quality across all areas of 
 ## Open to Opportunities 🚀
 I am open to Junior Manual QA Engineer opportunities in web and mobile application testing.
 
+---
+
+## Education 🎓
+
+- **Bachelor’s Degree in English Philology**
+  Ilia State University  
+  Minor: Psychology
+
+---
+
+## Certifications 📜
+
+- ISTQB Foundation Level Certificate  
+- QA Manual Testing Course – Lela Gabelaia  
+- English Language Certificate – National Assessment and Examinations Center (NAEC)
+
+---
+
+## Languages 🌍
+
+- Georgian 🇬🇪 — Native
+- English 🇬🇧 — Advanced
+
 
