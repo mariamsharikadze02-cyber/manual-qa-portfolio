@@ -6,7 +6,7 @@ It includes both **positive and negative test cases** to verify that the system 
 
 ## Application Under Test
 
-- Website: https://your-website.com (replace with real URL)
+- Website: https://
 - Type: Manual Functional Testing
 
 ## Test Coverage
