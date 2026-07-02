@@ -62,14 +62,23 @@ I am highly detail-oriented and focused on ensuring quality across all areas of 
 
   ## Skills & Tools 🧠🛠️
 
+## Skills & Tools 🧠🛠️
+
 Communication: Slack, Microsoft Teams, Gmail  
-Test Case Management: TestRail, Zephyr, Qase.io
+
+Test Case Management: TestRail, Zephyr, Qase.io  
+
 Bug Tracking & Project Management: Jira, Confluence, Trello, Asana  
+
 API Testing: Postman  
-Technical Skills: SQL (Basic), Java (Basic), GitHub, Html, Css 
+
+Technical Skills: SQL (Basic), Java (Basic), GitHub, HTML, CSS  
+
 Design & UI: Figma  
+
 Testing Utilities: Chrome DevTools  
 
-Testing Skills: Manual Testing, Web Application Testing 🌐, Mobile Application Testing 📱, Functional Testing, Regression Testing, Smoke & Sanity Testing, Exploratory Testing 🔍, UI/UX Testing, API Testing 🧪, Test Case Design, Bug Reporting 🐞, Requirements Analysis, Cross-browser Testing, Back-office Testing ⚙️, Payment/Invoice Testing 💳, Game Testing 🎮 
+## Testing Skills 🧪
 
+Manual Testing, Web Application Testing 🌐, Mobile Application Testing 📱, Functional Testing, Regression Testing, Smoke & Sanity Testing, Exploratory Testing 🔍, UI/UX Testing, API Testing 🧪, Test Case Design, Bug Reporting 🐞, Requirements Analysis, Cross-browser Testing, Back-office Testing ⚙️, Payment/Invoice Testing 💳, Game Testing 🎮, Static Testing, Dynamic Testing, Test Techniques (Black-box Testing, Equivalence Partitioning, Boundary Value Analysis), Test Types, Test Levels (Unit, Integration, System, Acceptance), Test Plans, Test Documentation, CI/CD concepts, Azure DevOps for test case management, SDLC, STLC, Agile & Scrum basics, ISTQB Foundation Level principles.
 
