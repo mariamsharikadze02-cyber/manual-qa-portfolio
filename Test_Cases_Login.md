@@ -1,5 +1,10 @@
 ## Test Cases for Login functionality. 
 ---
+This document contains a collection of manual test cases for a standard login functionality.
+
+The test cases are designed to validate the most common login scenarios and demonstrate my approach to manual testing. They include both positive and negative test scenarios, covering input validation, authentication, and expected system behavior.
+
+The purpose of these test cases is to showcase my ability to create clear, structured, and comprehensive test documentation following QA best practices.
 
 
 ## **ID: TC_001**
