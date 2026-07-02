@@ -26,19 +26,19 @@ User should be successfully logged in and redirected to the dashboard
 
 ## Test Case ID: TC_002
 
-""Title:""
+**Title:** 
 Verify login with invalid password
 
-""Priority:""
+**Priority:**
 High
 
-""Preconditions:""
+**Preconditions:**
 User must be on the login page
 
-""Steps:""
+**Steps:**
 1. Enter valid username
 2. Enter incorrect password
 3. Click on Login button
 
-""Expected Result:""
+**Expected Result:**
 Error message should be displayed: "Invalid username or password"
