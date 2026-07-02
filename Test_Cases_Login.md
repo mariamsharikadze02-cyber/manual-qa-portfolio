@@ -3,17 +3,18 @@
 
 **ID: TC_001**
 
-**Title:**
+**Title:**  Verify login with valid credentials
 
 **Priority:**
    High 
 
-**Preconditions:**
+**Preconditions:**  User must be on the login page and User should exist. 
 
 **Steps:**
-1. Step 1
-2. Step 2
-3. Step 3
+1. Enter valid username
+2. Enter valid password
+3. Click on Login button
 
 **Expected Result:**
 
+User should be successfully logged in and redirected to the dashboard
