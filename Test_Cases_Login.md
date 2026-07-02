@@ -24,7 +24,7 @@ User should be successfully logged in and redirected to the dashboard
 
 
 
-## ID: ""TC_002""
+## ID: TC_002
 
 **Title:** 
 Verify login with invalid password
@@ -63,6 +63,26 @@ User must be on the login page
 **Expected Result:**
 Validation messages should appear for required fields
 
+
+
+## ID: TC_004
+
+**Title:**
+Verify login with locked user account
+
+**Priority:**
+High
+
+**Preconditions:**
+User account must be locked
+
+**Steps:**
+1. Enter valid username of locked user
+2. Enter valid password
+3. Click on Login button
+
+**Expected Result:**
+User should not be able to login and should see account locked message
 
 
 
