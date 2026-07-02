@@ -1,4 +1,5 @@
 ## Test Cases for Login functionality. 
+---
 
 
 **ID: TC_001**
@@ -20,7 +21,7 @@
 User should be successfully logged in and redirected to the dashboard
 
 
----
+
 
 
 ## Test Case ID: TC_002
