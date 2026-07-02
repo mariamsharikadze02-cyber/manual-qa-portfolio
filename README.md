@@ -4,6 +4,10 @@
 
 👩‍💻This repository showcases my key QA testing work, including test cases, bug reports, test plans, and other software testing documentation.
 
+🚀 I am open to Junior Manual QA Engineer opportunities in web and mobile application testing.
+
+
+
 ---
 
 ## My Experience 👩‍💻
@@ -32,8 +36,6 @@ I am highly detail-oriented and focused on ensuring quality across all areas of 
 ## Location 🌍
 - City: Tbilisi, Georgia
 
-## Open to Opportunities 🚀
-I am open to Junior Manual QA Engineer opportunities in web and mobile application testing.
 
 ---
 
