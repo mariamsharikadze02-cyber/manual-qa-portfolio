@@ -58,4 +58,16 @@ I am open to Junior Manual QA Engineer opportunities in web and mobile applicati
 - Georgian 🇬🇪 — Native
 - English 🇬🇧 — Advanced
 
+  ## Skills & Tools 🧠🛠️
+
+Communication: Slack, Microsoft Teams, Gmail  
+Test Case Management: TestRail, Zephyr, TestCase.io (case.io)  
+Bug Tracking & Project Management: Jira, Confluence, Trello, Asana  
+API Testing: Postman  
+Technical Skills: SQL (Basic), Java (Basic), GitHub  
+Design & UI: Figma  
+Testing Utilities: Chrome DevTools  
+
+Testing Skills: Manual Testing, Web Application Testing 🌐, Mobile Application Testing 📱, Functional Testing, Regression Testing, Smoke & Sanity Testing, Exploratory Testing 🔍, UI/UX Testing, API Testing 🧪, Test Case Design, Bug Reporting 🐞, Requirements Analysis, Cross-browser Testing, Back-office Testing ⚙️, Payment/Invoice Testing 💳, Game Testing 🎮
+
 
