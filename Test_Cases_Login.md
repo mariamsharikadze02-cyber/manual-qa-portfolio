@@ -87,7 +87,7 @@ User should not be able to login and should see account locked message
 
 
 
-## ID: TC_007
+## ID: TC_005
 
 **Title:**
 Verify login using credentials in a different language
